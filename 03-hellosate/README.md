@@ -7,8 +7,6 @@ Esta aplicacion muestra un **"Hello World (from changed state) !"** pasando como
 ***
 Ingresar los siguientes comandos en el orden dado:
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```

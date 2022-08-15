@@ -7,8 +7,6 @@ Esta aplicacion permite cargar en **localStorage** mediante el formulario en el 
 ***
 Ingresar los siguientes comandos en el orden dado:
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```

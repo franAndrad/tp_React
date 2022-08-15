@@ -7,8 +7,6 @@ Esta aplicacion permite cargar y eliminar tareas en **localStorage** que estaban
 ***
 Ingresar los siguientes comandos en el orden dado:
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```

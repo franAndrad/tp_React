@@ -7,8 +7,6 @@ Esta aplicacion muestra noticias filtradas por categorias, traidas por la API [n
 ***
 Ingresar los siguientes comandos en el orden dado:
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```
