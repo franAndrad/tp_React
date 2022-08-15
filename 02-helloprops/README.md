@@ -4,7 +4,6 @@ Esta aplicacion muestra un **"Hello World!"** pasado como paramentro a la compon
 
 
 ## Instalacion 
-***
 Ingresar los siguientes comandos en el orden dado:
 ```
 $ npm install
